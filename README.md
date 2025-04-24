@@ -71,6 +71,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) f
 
 ## Contact
 
-- GitHub: [YassineDG](https://github.com/YassineDG)
-- Email: Yassindorgaa@gmail.com
+- GitHub: [YassineDG](https://github.com/dhruvpatel848)
+- Email: dhruvpatel79841@gmail.com
 
